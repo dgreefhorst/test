@@ -4,3 +4,4 @@ __pycache__/
 venv/
 .uv/
 *.egg-info/
+.commandcode/taste/taste.md
